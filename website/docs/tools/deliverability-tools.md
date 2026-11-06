@@ -57,3 +57,6 @@ Email delivery, warm-up, and testing tools that help messages reach the inbox.
 - [Warmerly](https://warmerly.com) - Email warmup for Google, Microsoft and SMTP mailboxes plus cold email campaigns, with SPF/DKIM/DMARC monitoring, blocklist checks and inbox placement tests. Free plan.
 
 Browse with tags on [Explore](/explore).
+
+
+* [CourseSignal Email Auth Checker](https://coursesignal.io/email-auth-checker/) - Free, no-signup SPF, DKIM, DMARC and MX check that runs in the browser via Cloudflare DNS-over-HTTPS, with plain-English explanations for course and coaching senders. Tries common DKIM selectors or a custom one; DNS-record check only, not an inbox-placement test.
