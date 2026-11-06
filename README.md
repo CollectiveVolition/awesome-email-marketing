@@ -882,6 +882,8 @@ npm start
 
 Site URL after deploy: `https://llazyemail.github.io/awesome-email-marketing/`
 
+* [CourseSignal Email Auth Checker](https://coursesignal.io/email-auth-checker/) - Free, no-signup SPF, DKIM, DMARC and MX check that runs in the browser via Cloudflare DNS-over-HTTPS, with plain-English explanations for course and coaching senders. Tries common DKIM selectors or a custom one; DNS-record check only, not an inbox-placement test.
+
 One-time setup: repository **Settings → Pages → Source → GitHub Actions**.
 
 ## [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
